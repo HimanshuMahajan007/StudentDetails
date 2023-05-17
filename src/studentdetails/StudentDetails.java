@@ -16,16 +16,16 @@ public class StudentDetails {
      */
     public static void main(String[] args) {
         // Array of object declaration
-//        Student[] list = new Student[2];
-//        Student s1 = new Student();
-//        s1.setName("Himanshu");
-//        s1.setAge(19);
-//        Student s2 = new Student();
-//        s2.setName("Nandini");
-//        s2.setAge(16);
-//        list[0] = s1;
-//        list[1] = s2;
-//        System.out.println(list[0].getName() + " " + list[0].getAge());
+        // Student[] list = new Student[2];
+        // Student s1 = new Student();
+        // s1.setName("Himanshu");
+        // s1.setAge(19);
+        // Student s2 = new Student();
+        // s2.setName("Nandini");
+        // s2.setAge(16);
+        // list[0] = s1;
+        // list[1] = s2;
+        // System.out.println(list[0].getName() + " " + list[0].getAge());
 
 
         // Example of array of objects: -
